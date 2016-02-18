@@ -19,6 +19,7 @@
 <v t="amd.20160218165333.1"><vh>產品設計</vh></v>
 <v t="amd.20160218160251.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160218161056.1"><vh>@edit test.html</vh></v>
+<v t="amd.20160218170159.1"><vh>@edit README.md</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20160218164900.1">1. 將 ace 編輯器換成 https://codemirror.net/
