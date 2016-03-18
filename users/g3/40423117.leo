@@ -9,9 +9,9 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160318100613.2"><vh>NewHeadline</vh></v>
+<v t="leo.20160318100613.2"><vh>@url cms-nfuhouses</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160318100613.2"></t>
+<t tx="leo.20160318100613.2">http://cms-nfuhouses.rhcloud.com/</t>
 </tnodes>
 </leo_file>
