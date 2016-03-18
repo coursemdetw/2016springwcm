@@ -9,13 +9,9 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160318100605.2"><vh>@url cms-ladisai</vh></v>
-<v t="leo.20160318105221.1"><vh>newHeadline</vh></v>
-<v t="leo.20160318105250.1"><vh>newHeadline</vh></v>
+<v t="leo.20160318100653.2"><vh>@url - CMS</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160318100605.2">http://cms-ladisai.rhcloud.com</t>
-<t tx="leo.20160318105221.1">https://www.ethercalc.org/cl07qwa3w1uj</t>
-<t tx="leo.20160318105250.1"></t>
+<t tx="leo.20160318100653.2"></t>
 </tnodes>
 </leo_file>
