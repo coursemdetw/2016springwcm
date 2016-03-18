@@ -9,9 +9,9 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160318104010.1"><vh>@url-cms</vh></v>
+<v t="leo.20160318110058.2"><vh>@url cms-pentium </vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160318104010.1">cmsimply-read40423116.rhcloud.com</t>
+<t tx="leo.20160318110058.2">http://chin-com4456.rhcloud.com/</t>
 </tnodes>
 </leo_file>
